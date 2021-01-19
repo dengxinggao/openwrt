@@ -1,4 +1,4 @@
-# wndr4300v1 lean's openwrt
+# wndr4300v1 openwrt
 
 
 # Thanks
